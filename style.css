@@ -1,3 +1,88 @@
 #avatar {
+    position: relative;
     border-radius: 50%;
+    top: 30px;
+    right: 40px;
+    border-color: black;
+    border: 1px solid;
+    float: right
+}
+
+header {
+    text-align: center;
+}
+
+nav { 
+    position: relative;
+    left: 20px;
+}
+
+body {
+    margin: 40px auto;
+    width: 1024px;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+}
+
+#contact-information {
+    position: relative;
+    left: 20px;
+    top: 10px;
+
+}
+
+#skills {
+    position: relative;
+    left: 20px;
+    bottom: 240px;
+}
+
+#courses {
+    position: relative;
+    left: 20px;
+    bottom: 210px;
+}
+
+#languages {
+    position: relative;
+    left: 20px;
+    bottom: 320px;
+}
+
+#about-myself {
+    position: relative;
+    left: 500px;
+    bottom: 180px;
+}
+
+#education {
+    position: relative;
+    left: 500px;
+    bottom: 400px;
+}
+
+#project-example {
+    position: relative;
+    left: 500px;
+    bottom: 450px; 
+}
+
+#code-example {
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+}
+
+#rslogo {
+    position: relative;
+    left: 350px;
+}
+
+#git {
+   position: relative;
+   right: 350px;
 }
