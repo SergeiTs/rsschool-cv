@@ -22,7 +22,7 @@ header {
     padding: 0px;
 }
 
-nav { 
+nav {
     position: fixed;
     top: 223px;
     left: -1px;
@@ -43,7 +43,6 @@ hr {
     border-radius: 50%;
     border-color: black;
     border: 1px solid;
-    
 }
 
 body {
@@ -97,7 +96,7 @@ footer {
 #project-example {
     position: relative;
     left: 500px;
-    bottom: 450px; 
+    bottom: 450px;
 }
 
 #code-example {
