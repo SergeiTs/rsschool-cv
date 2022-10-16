@@ -1,3 +1,137 @@
+
+a {
+    text-decoration: solid;
+    color: white
+}
+
+h1 {
+    position: relative;
+    top: 35px;
+    left: 150px;
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    position: relative;
+    top: 20px;
+    padding: 0px;
+}
+
+nav { 
+    position: fixed;
+    top: 223px;
+    left: -1px;
+    width: 164px;
+    background-color: rgba(2, 2, 2, 0.603);
+    font-family: sans-serif;
+}
+
+hr {
+    color: rgb(97, 47, 47);
+    border-style: solid;
+}
+
 #avatar {
+    position: relative;
+    bottom: 55px;
+    left: 800px;
     border-radius: 50%;
+    border-color: black;
+    border: 1px solid;
+    
+}
+
+body {
+    margin: auto;
+    width: 1024px;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+}
+
+#contact-information {
+    position: relative;
+    left: 20px;
+    top: 10px;
+
+}
+
+#skills {
+    position: relative;
+    left: 20px;
+    bottom: 240px;
+}
+
+#courses {
+    position: relative;
+    left: 20px;
+    bottom: 210px;
+}
+
+#languages {
+    position: relative;
+    left: 20px;
+    bottom: 320px;
+}
+
+#about-myself {
+    position: relative;
+    left: 500px;
+    bottom: 180px;
+}
+
+#education {
+    position: relative;
+    left: 500px;
+    bottom: 400px;
+}
+
+#project-example {
+    position: relative;
+    left: 500px;
+    bottom: 450px; 
+}
+
+#code-example {
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+}
+
+#rslogo {
+    position: relative;
+    left: 350px;
+}
+
+#git {
+   position: relative;
+   right: 350px;
+   bottom: 8px;
+}
+
+main {
+    position: relative;
+    bottom: 20px;
+    background-color: rgba(91, 179, 113, 0.705);
+    height: 850px ;
+}
+
+footer {
+    position: relative;
+    bottom: 30px;
+    background-color: rgba(2, 2, 2, 0.603);
+    color: white;
+}
+
+time {
+    position: relative;
+    bottom: 8px;
 }
