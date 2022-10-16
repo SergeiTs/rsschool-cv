@@ -10,9 +10,9 @@
 
 ***E-mail***: tsynkevichsergei@gmail.com  
 
-**Tel**: +375256116983  
+***Tel***: +375256116983  
 
-**Telegram**: @SergeiTs700  
+***Telegram***: @SergeiTs700  
 
 
 ---
