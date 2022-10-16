@@ -6,9 +6,9 @@
 
 #### Contact information:
 
-**Discord**: Sergei#0091  
+***Discord***: Sergei#0091  
 
-**E-mail**: tsynkevichsergei@gmail.com  
+***E-mail***: tsynkevichsergei@gmail.com  
 
 **Tel**: +375256116983  
 
